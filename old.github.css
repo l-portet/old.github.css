@@ -148,22 +148,12 @@
   > .gutter-condensed
   .BorderGrid
   > div:first-child
-  .mt-3:last-child
+  .mt-3
   .muted-link {
   position: absolute;
   bottom: -16px;
+  background: #fff;
   left: 0;
-}
-
-.repository-content
-  > .gutter-condensed
-  .BorderGrid
-  > div:first-child
-  .mt-3:nth-last-child(3)
-  .muted-link {
-  position: absolute;
-  bottom: -16px;
-  left: 120px;
 }
 
 /* Releases section */
