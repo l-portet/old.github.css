@@ -1,5 +1,5 @@
 # old.github.css
-Back to the good old styles
+Back to the good old Github's styles
 
 When injected, the CSS formats a Github repo page into a vertical and centered view, like before
 
