@@ -1,7 +1,7 @@
 # old.github.css
 Back to the good old Github's styles
 
-When injected, the CSS formats a Github repo page into a vertical and centered view, like before
+When injected, the CSS formats a Github repo layout into a vertical and centered view, like before
 
 [Install on Stylish](https://userstyles.org/styles/185907/old-github-layout)
 
